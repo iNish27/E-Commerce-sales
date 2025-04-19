@@ -1,0 +1,21 @@
+CustomerID,Name,Gender,Age,City
+1,Customer_1,Male,39,New York
+2,Customer_2,Female,19,Los Angeles
+3,Customer_3,Male,41,Houston
+4,Customer_4,Male,47,New York
+5,Customer_5,Male,55,Houston
+6,Customer_6,Female,19,Los Angeles
+7,Customer_7,Male,38,Los Angeles
+8,Customer_8,Male,50,New York
+9,Customer_9,Male,29,Los Angeles
+10,Customer_10,Female,39,Phoenix
+11,Customer_11,Male,42,Los Angeles
+12,Customer_12,Male,44,Houston
+13,Customer_13,Male,59,Houston
+14,Customer_14,Male,45,Houston
+15,Customer_15,Female,33,Houston
+16,Customer_16,Male,32,Phoenix
+17,Customer_17,Female,20,Chicago
+18,Customer_18,Female,54,New York
+19,Customer_19,Female,24,Houston
+20,Customer_20,Male,38,Los Angeles
